@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Pronajmu byt 2kk + lodžie + kryté garážové stání
 
-You can use the [editor on GitHub](https://github.com/stlk/byt/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Byt je plně vybavený.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Vybavení
+- ložnice: postel + PC stůl
+- obývák: gauč (spíš takové sofa) + komoda
+- kuchyň: myčka + vestavěným kávovar na espresso + kombinovaná mikrovlná trouba
+- předsíň: velká vestavěná skříň
+- koupelna pračka + úložné prostory
 
-### Markdown
+Nábytek je možné po domluvě nechat odvézt.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cena
+16 000 Kč
+500 - 800 Kč elektřina
 
-```markdown
-Syntax highlighted code block
+### Fotografie
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stlk/byt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.dropbox.com/sh/v6fx515ffdxegsv/AADbCDFFNNBhJExVRM_KEtNja?dl=0
