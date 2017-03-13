@@ -20,4 +20,4 @@ V okolí se nachází příjemná vinárna a večerka (5 min chůze), dále Bill
 
 ### Fotografie
 
-https://www.dropbox.com/sh/v6fx515ffdxegsv/AADbCDFFNNBhJExVRM_KEtNja?dl=0
+[https://www.dropbox.com/sh/v6fx515ffdxegsv/AADbCDFFNNBhJExVRM_KEtNja?dl=0](https://www.dropbox.com/sh/v6fx515ffdxegsv/AADbCDFFNNBhJExVRM_KEtNja?dl=0)
