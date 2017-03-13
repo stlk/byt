@@ -18,6 +18,8 @@ V okolí se nachází příjemná vinárna a večerka (5 min chůze), dále Bill
 ### Cena
 16 000 Kč + 800 Kč elektřina
 
+Základní cena zahrnuje zálohy na vodu a TUV.
+
 ### Fotografie
 
 [https://www.dropbox.com/sh/v6fx515ffdxegsv/AADbCDFFNNBhJExVRM_KEtNja?dl=0](https://www.dropbox.com/sh/v6fx515ffdxegsv/AADbCDFFNNBhJExVRM_KEtNja?dl=0)
