@@ -1,19 +1,22 @@
 ## Pronajmu byt 2kk + lodžie + kryté garážové stání
 
-Byt je plně vybavený.
+Nabízím k pronájmu plně vybavený 2kk byt (50m čtver.) s lodžií a krytým garážovým stáním, mezi Prosekem a Letňany, v ulici Kytlická.
 
 ### Vybavení
-- ložnice: postel + PC stůl
-- obývák: gauč (spíš takové sofa) + komoda
-- kuchyň: myčka + vestavěným kávovar na espresso + kombinovaná mikrovlná trouba
-- předsíň: velká vestavěná skříň
-- koupelna pračka + úložné prostory
+Ložnice: manželská postel s matrací, stůl a malá knihovna
+Obývací pokoj: stylový futon, konferenční stolek, TV stolek, komoda
+Kuchyň: moderní Ikea kuchyň v červené barvě s lesklým povrchem, vestavěné spotřebiče - kombinovaná mikrovlnná trouba, přístroj na espresso, myčka, lednice
+Předsíň: velká vestavěná skříň na míru
+Koupelna s vanou: pračka a úložné prostory
 
-Nábytek je možné po domluvě nechat odvézt.
+Vybavení bytu je možné nechat po domluvě odvézt. Upřednostňujeme dlouhodobý pronájem min. na 1 rok. Byt je vhodný pro 2 osoby bez zvířat (drobní domácí mazlíčci nejsou překážkou).
+
+### Okolí
+
+V okolí se nachází příjemná vinárna a večerka (5 min chůze), dále Billa a Penny, restaurace, pizzerie, poliklinika Prosek a park Přátelství (max. 10 min chůze).
 
 ### Cena
-16 000 Kč
-500 - 800 Kč elektřina
+16 000 Kč + 800 Kč elektřina
 
 ### Fotografie
 
