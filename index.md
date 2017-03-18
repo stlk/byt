@@ -11,6 +11,10 @@ Nabízím k pronájmu plně vybavený 2kk byt (50m čtver.) s lodžií a krytým
 
 Vybavení bytu je možné nechat po domluvě odvézt. Upřednostňujeme dlouhodobý pronájem min. na 1 rok. Byt je vhodný pro 2 osoby bez zvířat (drobní domácí mazlíčci nejsou překážkou).
 
+### Internet
+
+Vysokorychlostní internet od sdružení [jablonka.cz](jablonka.cz) v ceně.
+
 ### Okolí
 
 V okolí se nachází příjemná vinárna a večerka (5 min chůze), dále Billa a Penny, restaurace, pizzerie, poliklinika Prosek a park Přátelství (max. 10 min chůze).
