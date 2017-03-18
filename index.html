@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <title>Pronajmu byt 2kk - Josef Rousek</title>
+</head>
+
+<body>
+
+    <header>
+        <section class="header-content">
+            <h1 class="header-title">Pronajmu byt 2kk</h1>
+            <h3 class="header-subtitle">s lodžií a krytým garážovým stáním</h3>
+        </section>
+    </header>
+    <article>
+
+        <p>Nabízím k pronájmu plně vybavený 2kk byt (50m<sup>2</sup>) s lodžií a krytým garážovým stáním, mezi Prosekem a Letňany, v ulici Kytlická.</p>
+
+        <h3 id="vybavení">Vybavení</h3>
+        <ul>
+            <li><strong>Ložnice:</strong> manželská postel s matrací, stůl a malá knihovna</li>
+            <li><strong>Obývací pokoj:</strong> stylový futon, konferenční stolek, TV stolek, komoda</li>
+            <li><strong>Kuchyň:</strong> moderní Ikea kuchyň v červené barvě s lesklým povrchem, vestavěné spotřebiče - kombinovaná mikrovlnná trouba, přístroj na espresso, myčka, lednice</li>
+            <li><strong>Předsíň:</strong> velká vestavěná skříň na míru</li>
+            <li><strong>Koupelna s vanou:</strong> pračka a úložné prostory</li>
+        </ul>
+
+        <p>Vybavení bytu je možné nechat po domluvě odvézt. Upřednostňujeme dlouhodobý pronájem min. na 1 rok. Byt je vhodný pro 2 osoby bez zvířat (drobní domácí mazlíčci nejsou překážkou).</p>
+
+        <h3 id="internet">Internet</h3>
+
+        <p>Vysokorychlostní internet od sdružení jablonka.cz v ceně.</p>
+
+        <h3 id="okolí">Okolí</h3>
+
+        <p>V okolí se nachází příjemná vinárna a večerka (5 min chůze), dále Billa a Penny, restaurace, pizzerie, poliklinika Prosek a park Přátelství (max. 10 min chůze).</p>
+
+        <script src="https://api.mapy.cz/loader.js"></script>
+        <script>Loader.load();</script>
+        <div id="mapa" style="width:700px; height:466px"></div>
+        <script>
+            var center = SMap.Coords.fromWGS84(14.506042154244994, 50.12532781411423);
+            var mapa = new SMap(JAK.gel("mapa"), center, 16);
+            mapa.addDefaultLayer(SMap.DEF_BASE).enable();
+            var scale = new SMap.Control.Scale();
+            mapa.addControl(scale, {left:"8px", bottom:"25px"});
+            var msOpt = SMap.MOUSE_PAN | SMap.MOUSE_WHEEL | SMap.MOUSE_ZOOM;
+            var mouse = new SMap.Control.Mouse(msOpt);
+            mapa.addControl(mouse);
+            var keyboard = new SMap.Control.Keyboard(SMap.KB_PAN | SMap.KB_ZOOM);
+            mapa.addControl(keyboard);
+            var selection = new SMap.Control.Selection(2);
+            mapa.addControl(selection);
+            var zn = new SMap.Control.ZoomNotification();
+            mapa.addControl(zn);
+            var zoomOpt = {showZoomMenu:false};
+            var zoom = new SMap.Control.Zoom(null,{titles:["Přiblížit", "Oddálit"], showZoomMenu:false});
+            mapa.addControl(zoom, {right:"2px", top:"10x"});
+            var lnt = "Zobrazit na Mapy.cz";
+            var lnd = JAK.mel("a", {href:"https://mapy.cz/s/1u8Mb", target:"_blank", innerHTML:lnt});
+            lnd.style.cssText = "position:absolute;left:8px; bottom:54px;"+
+            "display:block; padding:4px 8px; background-color:#fff; border:medium none;"+
+            "border-radius:3px; box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.3);"+
+            "text-decoration:none; color:#6b7580;";
+            mapa.getContainer().appendChild(lnd);
+        </script>
+
+        <h3 id="cena">Cena</h3>
+        <p>16 000 Kč + 800 Kč elektřina</p>
+
+        <p>Základní cena zahrnuje zálohy na vodu a TUV.</p>
+
+        <h3>Kontakt</h3>
+
+        <p>Email: <a href="mailto:josef.rousek@gmail.com">josef.rousek@gmail.com</a></p>
+        <p>Telefon: 608 583 036</p>
+
+        <h3 id="fotografie">Fotografie</h3>
+
+        <div class="photos">
+            <img src="images/DSC1226.jpg" alt="" />
+            <img src="images/DSC1228.jpg" alt="" />
+            <img src="images/DSC1235.jpg" alt="" />
+            <img src="images/DSC1238.jpg" alt="" />
+            <img src="images/DSC1241.jpg" alt="" />
+            <img src="images/DSC1242.jpg" alt="" />
+            <img src="images/DSC1325.jpg" alt="" />
+            <img src="images/DSC1328.jpg" alt="" />
+            <img src="images/DSC1329.jpg" alt="" />
+            <img src="images/DSC1341.jpg" alt="" />
+            <img src="images/DSC1342.jpg" alt="" />
+            <img src="images/DSC1343.jpg" alt="" />
+        </div>
+
+    </article>
+    <footer>
+        Byt pronajímá a web vytvořil <a href="http://rousek.name">Josef Rousek</a>.
+    </footer>
+
+</body>
+
+</html>
