@@ -11,6 +11,10 @@ Nabízím k pronájmu plně vybavený 2kk byt (50m čtver.) s lodžií a krytým
 
 Vybavení bytu je možné nechat po domluvě odvézt. Upřednostňujeme dlouhodobý pronájem min. na 1 rok. Byt je vhodný pro 2 osoby bez zvířat (drobní domácí mazlíčci nejsou překážkou).
 
+### Fotografie
+
+[https://www.dropbox.com/sh/v6fx515ffdxegsv/AADbCDFFNNBhJExVRM_KEtNja?dl=0](https://www.dropbox.com/sh/v6fx515ffdxegsv/AADbCDFFNNBhJExVRM_KEtNja?dl=0)
+
 ### Internet
 
 Vysokorychlostní internet od sdružení [jablonka.cz](jablonka.cz) v ceně.
@@ -24,6 +28,3 @@ V okolí se nachází příjemná vinárna a večerka (5 min chůze), dále Bill
 
 Základní cena zahrnuje zálohy na vodu a TUV.
 
-### Fotografie
-
-[https://www.dropbox.com/sh/v6fx515ffdxegsv/AADbCDFFNNBhJExVRM_KEtNja?dl=0](https://www.dropbox.com/sh/v6fx515ffdxegsv/AADbCDFFNNBhJExVRM_KEtNja?dl=0)
