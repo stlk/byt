@@ -42,16 +42,13 @@
 
         <script src="https://api.mapy.cz/loader.js"></script>
         <script>Loader.load();</script>
-        <div id="mapa" style="width:700px; height:466px"></div>
+        <div id="mapa" style="width:100%; max-width:700px; height:466px"></div>
         <script>
             var center = SMap.Coords.fromWGS84(14.506042154244994, 50.12532781411423);
             var mapa = new SMap(JAK.gel("mapa"), center, 16);
             mapa.addDefaultLayer(SMap.DEF_BASE).enable();
             var scale = new SMap.Control.Scale();
             mapa.addControl(scale, {left:"8px", bottom:"25px"});
-            var msOpt = SMap.MOUSE_PAN | SMap.MOUSE_WHEEL | SMap.MOUSE_ZOOM;
-            var mouse = new SMap.Control.Mouse(msOpt);
-            mapa.addControl(mouse);
             var keyboard = new SMap.Control.Keyboard(SMap.KB_PAN | SMap.KB_ZOOM);
             mapa.addControl(keyboard);
             var selection = new SMap.Control.Selection(2);

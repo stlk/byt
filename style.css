@@ -57,6 +57,7 @@ header:after {
 article {
   max-width: 970px;
   margin: auto;
+  padding: 1rem;
 }
 
 h3 {
@@ -65,5 +66,5 @@ h3 {
 
 .photos img {
   width: 100%;
-  margin: 3rem;
+  margin: 3rem auto;
 }
